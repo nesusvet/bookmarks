@@ -1,11 +1,18 @@
+# Энциклопедии
+* [wikipedia.org](https://www.wikipedia.org/) — без пояснений
+* [krugosvet.ru](http://www.krugosvet.ru/) — универсальная научно-популярная онлайн-энциклопедия
+* [academic.ru/](http://dic.academic.ru/) — много словарей на все случаи жизни
+* [elementy.ru/](http://elementy.ru/) — лекции, научно-популярные работы, онглайн-энциклопедия
+* [iph.ras.ru/](http://iph.ras.ru/enc.htm) — большой словарь по философии
+
 # Английский 
 Изучаем английский язык
 * [efl.ru](http://www.efl.ru/) — русскоязычный форум по английскому языку
 * [antimoon.com](http://antimoon.com/) — англоязычный ресурс по английскому, где есть статьи на тему фонетики, что делать новичку и другие дельные советы.
 * [globalvoicesonline.org](https://globalvoicesonline.org/-/special/global-voices-podcast/) — подкасты и новости из разных уголков планеты на английском языке
 * [urbandictionary.com](http://www.urbandictionary.com/) — словарь, где можно узнать сленговое значение слова
-* [fryreadsonegin.com](http://fryreadsonegin.com/) — Стивен Фрай читает Евгений Онегина на великолепном английском языке.
-* [librivox.org](https://librivox.org/) — добровольцы читают книги на английском языке.
+* [fryreadsonegin.com](http://fryreadsonegin.com/) — Стивен Фрай читает Евгения Онегина на великолепном английском языке.
+* [librivox.org](https://librivox.org/) — добровольцы читают книги на английском языке
 
 # Поиск квартиры для съема 
 * [cian.ru](http://www.cian.ru/) — популярный ресурс для поиска квартиры или команты, но есть недостаток: на сайте одни риелторы
