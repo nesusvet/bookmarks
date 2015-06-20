@@ -1,9 +1,9 @@
 # Энциклопедии
 * [wikipedia.org](https://www.wikipedia.org/) — без пояснений
 * [krugosvet.ru](http://www.krugosvet.ru/) — универсальная научно-популярная онлайн-энциклопедия
-* [academic.ru/](http://dic.academic.ru/) — много словарей на все случаи жизни
-* [elementy.ru/](http://elementy.ru/) — лекции, научно-популярные работы, онглайн-энциклопедия
-* [iph.ras.ru/](http://iph.ras.ru/enc.htm) — большой словарь по философии
+* [academic.ru](http://dic.academic.ru/) — много словарей на все случаи жизни
+* [elementy.ru](http://elementy.ru/) — лекции, научно-популярные работы, онглайн-энциклопедия
+* [iph.ras.ru](http://iph.ras.ru/enc.htm) — большой словарь по философии
 
 # Английский 
 Изучаем английский язык
