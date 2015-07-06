@@ -90,3 +90,6 @@
 ## Психология
 * [Убей в себе инфантила](http://www.universalinternetlibrary.ru/book/15767/ogl.shtml) — автор: Павел Зыгмантович
 
+## Работа
+* [Оформление резюме для зарубежных компаний](http://megamozg.ru/post/10304/)
+* [Средняя зарплата релиз инженера в Англии](http://www.itjobswatch.co.uk/jobs/uk/release%20engineer.do)
