@@ -38,3 +38,19 @@
 * [erocleaners.ru](http://erocleaners.ru/) — полуголые девочки и мальчики помогут убрать квартиру
 * [chicken-shop.ru](http://chicken-shop.ru/) — украшения в стиле стимпанк 
 
+# Японский язык
+* [www.textfugu.com](http://www.textfugu.com/) — изучаем японский online 
+
+# Люди
+интересные личности для меня
+## Певцы
+* [Yolandi Visser](https://en.wikipedia.org/wiki/Yolandi_Visser)
+## Писатели
+* [Юкио Мисима](https://ru.wikipedia.org/wiki/%D0%AE%D0%BA%D0%B8%D0%BE_%D0%9C%D0%B8%D1%81%D0%B8%D0%BC%D0%B0)
+## Искусство
+* [Эшер, Мауриц Корнелис](https://ru.wikipedia.org/wiki/%D0%AD%D1%88%D0%B5%D1%80,_%D0%9C%D0%B0%D1%83%D1%80%D0%B8%D1%86_%D0%9A%D0%BE%D1%80%D0%BD%D0%B5%D0%BB%D0%B8%D1%81)
+
+# Статьи и книги
+## Психология
+* [Убей в себе инфантила](http://www.universalinternetlibrary.ru/book/15767/ogl.shtml) — автор: Павел Зыгмантович
+
