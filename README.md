@@ -38,6 +38,13 @@
 * [erocleaners.ru](http://erocleaners.ru/) — полуголые девочки и мальчики помогут убрать квартиру
 * [chicken-shop.ru](http://chicken-shop.ru/) — украшения в стиле стимпанк 
 
+# Буддизм
+* [accesstoinsight.org](http://www.accesstoinsight.org/) — Палийский канон на английском
+
+# Библиотеки
+* [archive.org](https://archive.org/) — Миллион свободных книг, записей и музыки
+* [gutenberg.org](http://www.gutenberg.org/wiki/Main_Page) — Более чем 49000 книг
+
 # Искусство
 * [artstation.com](https://www.artstation.com/) — прикольный подбор картинок, эскизов 
 
@@ -51,6 +58,7 @@
 * [textfugu.com](http://www.textfugu.com/) — изучаем японский online 
 * [learnjapanesepod.com/](http://learnjapanesepod.com/) — изучаем японский с подкастами
 * [yakuru.net](http://yakuru.net/?lang=ru-RU) — русско-японский словарь
+* [tofugu.com](http://www.tofugu.com/) — интересные истории из жизни японцев
 
 # Люди
 > интересные личности для меня
