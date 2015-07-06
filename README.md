@@ -25,6 +25,11 @@
 * [timeanddate.com](http://www.timeanddate.com/) — можно сделать свой супер будильник и потом кинуть ссылку другу, есть калькулятор времени и даты с одной на другую, можно посмотреть временную зону
 * [worldtimebuddy.com](http://www.worldtimebuddy.com/) — очень удобно, если нужно узнать сколько времени в другой стране относительно своего
 
+# Тематические форума
+* [vashdom.ru](http://forum.vashdom.ru/) — крутой строительный форум
+* [westernfilm.ru](http://westernfilm.ru/) — всё о вестернах
+* [afroforum.ru](http://afroforum.ru/index.php) — африканский форум
+
 # Онлайн-магазины
 Где покупаю вещи
 * [dharma.ru](http://dharma.ru/index.php) — книги по буддизму и эзотерике, есть мелкие вещички
@@ -56,7 +61,7 @@
 
 # Японский язык
 * [textfugu.com](http://www.textfugu.com/) — изучаем японский online 
-* [learnjapanesepod.com/](http://learnjapanesepod.com/) — изучаем японский с подкастами
+* [learnjapanesepod.com](http://learnjapanesepod.com/) — изучаем японский с подкастами
 * [yakuru.net](http://yakuru.net/?lang=ru-RU) — русско-японский словарь
 * [tofugu.com](http://www.tofugu.com/) — интересные истории из жизни японцев
 
