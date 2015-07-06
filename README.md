@@ -4,6 +4,7 @@
 * [academic.ru](http://dic.academic.ru/) — много словарей на все случаи жизни
 * [elementy.ru](http://elementy.ru/) — лекции, научно-популярные работы, онглайн-энциклопедия
 * [iph.ras.ru](http://iph.ras.ru/enc.htm) — большой словарь по философии
+* [multitran.ru](http://www.multitran.ru/c/m.exe?a=1) — словарь-переводчик
 
 # Английский 
 Изучаем английский язык
