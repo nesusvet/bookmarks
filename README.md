@@ -38,8 +38,19 @@
 * [erocleaners.ru](http://erocleaners.ru/) — полуголые девочки и мальчики помогут убрать квартиру
 * [chicken-shop.ru](http://chicken-shop.ru/) — украшения в стиле стимпанк 
 
+# Искусство
+* [artstation.com](https://www.artstation.com/) — прикольный подбор картинок, эскизов 
+
+# Регулярные выражения
+* [rubular.com](http://www.rubular.com/) — самый удобный способ проверить регулярные выражения
+
+# Торрент
+* [rutor.org](http://zerkalo-rutor.org/) — не хипстерский rutracker.org 
+
 # Японский язык
-* [www.textfugu.com](http://www.textfugu.com/) — изучаем японский online 
+* [textfugu.com](http://www.textfugu.com/) — изучаем японский online 
+* [learnjapanesepod.com/](http://learnjapanesepod.com/) — изучаем японский с подкастами
+* [yakuru.net](http://yakuru.net/?lang=ru-RU) — русско-японский словарь
 
 # Люди
 > интересные личности для меня
