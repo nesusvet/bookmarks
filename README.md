@@ -14,6 +14,7 @@
 * [urbandictionary.com](http://www.urbandictionary.com/) — словарь, где можно узнать сленговое значение слова
 * [fryreadsonegin.com](http://fryreadsonegin.com/) — Стивен Фрай читает Евгения Онегина на великолепном английском языке.
 * [librivox.org](https://librivox.org/) — добровольцы читают книги на английском языке
+* [lingvist.io](https://lingvist.io/) — поможет выучить новые слова
 
 # Поиск квартиры для съема 
 * [cian.ru](http://www.cian.ru/) — популярный ресурс для поиска квартиры или команты, но есть недостаток: на сайте одни риелторы
