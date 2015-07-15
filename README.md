@@ -66,6 +66,7 @@
 * [learnjapanesepod.com](http://learnjapanesepod.com/) — изучаем японский с подкастами
 * [yakuru.net](http://yakuru.net/?lang=ru-RU) — русско-японский словарь
 * [tofugu.com](http://www.tofugu.com/) — интересные истории из жизни японцев
+* [jcenter.msu.ru](http://www.jcenter.msu.ru/) — АНО "Японский Центр"
 
 # Люди
 > интересные личности для меня
