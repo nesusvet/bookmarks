@@ -68,6 +68,9 @@
 * [tofugu.com](http://www.tofugu.com/) — интересные истории из жизни японцев
 * [jcenter.msu.ru](http://www.jcenter.msu.ru/) — АНО "Японский Центр"
 
+# Безопасность
+* [info.securityinabox.org](https://info.securityinabox.org/ru) — советы по безопасности
+
 # Люди
 > интересные личности для меня
 
