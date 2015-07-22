@@ -5,6 +5,7 @@
 * [elementy.ru](http://elementy.ru/) — лекции, научно-популярные работы, онглайн-энциклопедия
 * [iph.ras.ru](http://iph.ras.ru/enc.htm) — большой словарь по философии
 * [multitran.ru](http://www.multitran.ru/c/m.exe?a=1) — словарь-переводчик
+* [rationalwiki.org/](http://ru.rationalwiki.org/wiki/Main_Page) — энциклопедия, которая касается науки, скептицизма и критического мышления
 
 # Английский 
 Изучаем английский язык
